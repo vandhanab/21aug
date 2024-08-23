@@ -1,0 +1,141 @@
+body{
+    background-color: lightblue;
+    font-size: 20px;
+}
+.l{
+    
+    position: fixed;
+    background-color: rgb(108, 153, 250);
+    width: 99%;
+    padding: 25px;
+    text-align: center;
+    word-spacing: 30px;
+    font-size: 18px;
+    
+    color: white;
+    top: 0;
+    z-index: 1;
+}
+a{
+    text-decoration: none ;
+}
+.B{
+    text-align: center;
+    background-color: white;
+    padding: 10px;
+    margin-top: 100px;
+    margin-left: 150px;
+    width: 75%;
+    font-size: 25px;
+}
+.BV{
+    background-color: white;
+    width: 75%;
+    padding: 10px;
+    margin: 30px;
+    margin-left: 150px;
+}
+.BVR{
+    display: inline;
+    font-size: 30px;
+    margin-left: 2%;
+}
+.BVR1 img{
+    display: inline;
+    border: 2px solid red;
+    margin-left: 3%;
+    border-radius: 90%;
+}
+.BVR2{
+    position:absolute;
+    display: inline;
+    margin-left: 28%;
+    bottom: 165px;
+}
+.BVR3{
+    border-collapse: collapse;
+    background-color:white;
+    width: 75%;
+    margin-left: 150px;
+    padding: 10px;
+}
+.BVR4{
+    border-collapse: collapse;
+    font-size: 30px;
+}
+table,thead,tr,th,td{
+    border-collapse: collapse;
+    text-align: start;
+    width: 932px;
+    height: 40px;
+    padding: 10px;
+    border: 2px solid black;
+}
+.BVR5{
+    background-color: white;
+    width: 75%;
+    padding: 10px;
+    margin-top: 10px;
+    margin-left: 150px;
+}
+.BVR6{
+    font-size: 30px;
+}
+.BVR7{
+    background-color: lightblue;
+    text-align: center;
+    width: 300px;
+    padding: 10px;
+    border-radius: 10%;
+    box-shadow: 3px 3px 3px black;
+    display: inline-block;
+}
+.BVR8{
+    text-align: center;
+    background-color: lightblue;
+    width: 300px;
+    padding: 10px;
+    border-radius: 10%;
+    box-shadow: 3px 3px 3px black;
+    margin: 10px;
+    display: inline-block;
+}
+.BVR9{
+    background-color: lightblue;
+    text-align: center;
+    width: 300px;
+    padding: 10px;
+    border-radius: 10%;
+    box-shadow: 3px 3px 3px black;
+    margin-top: 10px;
+}
+.BVR10{
+    background-color:  white;
+    border: rgb(13, 30, 26);
+    margin-left: 150px;
+    margin-top: 10px;
+    width: 75%;
+    padding: 10px;
+}
+input[type="text"]{
+    display: block;
+    height: 30px;
+    width: 75%;
+    margin-top: 7px;
+}
+input[type="email"]{
+    display: block;
+    height: 30px;
+    width: 75%;
+    margin-top: 7px;
+}
+button{
+    background-color: rgb(68, 248, 152);
+    width: 100px;
+    border-radius: 2%;
+}
+footer{
+    background-color:rgb(243, 88, 170);
+    padding: 10px;
+    text-align: center;
+}
